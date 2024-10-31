@@ -1,4 +1,4 @@
-# Backend API for Project
+# Titanlory Server
 
 ## Overview
 This is the backend server for the project, built with Node.js, Express, and MongoDB. The backend provides APIs to manage player data, leaderboard rankings, and supports additional functionalities like caching with Redis.
